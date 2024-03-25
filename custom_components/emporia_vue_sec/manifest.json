@@ -1,6 +1,6 @@
 {
-  "domain": "emporia_vue",
-  "name": "Emporia Vue",
+  "domain": "emporia_vue_sec",
+  "name": "Emporia Vue sec",
   "codeowners": ["@magico13"],
   "config_flow": true,
   "dependencies": [],

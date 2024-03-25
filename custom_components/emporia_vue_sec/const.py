@@ -1,6 +1,6 @@
 """Constants for the Emporia Vue integration."""
 
-DOMAIN = "emporia_vue"
+DOMAIN = "emporia_vue_sec"
 VUE_DATA = "vue_data"
 ENABLE_1S = "enable_1s"
 ENABLE_1M = "enable_1m"
